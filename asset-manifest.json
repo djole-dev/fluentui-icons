@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fluentui-icons/static/css/main.abd64e84.css",
+    "main.js": "/fluentui-icons/static/js/main.8fcdbd47.js",
+    "static/js/787.cb0e6825.chunk.js": "/fluentui-icons/static/js/787.cb0e6825.chunk.js",
+    "index.html": "/fluentui-icons/index.html",
+    "main.abd64e84.css.map": "/fluentui-icons/static/css/main.abd64e84.css.map",
+    "main.8fcdbd47.js.map": "/fluentui-icons/static/js/main.8fcdbd47.js.map",
+    "787.cb0e6825.chunk.js.map": "/fluentui-icons/static/js/787.cb0e6825.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.8fcdbd47.js"
+  ]
+}
